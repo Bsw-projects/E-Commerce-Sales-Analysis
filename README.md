@@ -10,6 +10,8 @@ This project analyzes sales transaction data for a UK-based e-commerce business 
 
 - The dataset used can be found [here](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data). (Kaggle)
 
+-  The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/user-attachments/files/17153915/SQL.Queries.E-Commerce.pdf ). (SQL Server Management Studio)
+
 - An interactive dashboard used to report and explore sales trends can be found [here](https://app.powerbi.com/view?r=eyJrIjoiYzkxM2MzODktOTRiZi00OTBkLTgxOGItYjQxYzhhYTFhODA5IiwidCI6IjI3MWQ1ZTdiLTEzNTAtNGI5Ni1hYjg0LTUyZGJkYTRjZjQwYyIsImMiOjEwfQ%3D%3D&pageName=6b650cd31a16e93ba4dc). (Power BI)
 
 
