@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis
+# E-Commerce Sales Analysis (End-to-End Project)
 
 ## Project Overview
 
