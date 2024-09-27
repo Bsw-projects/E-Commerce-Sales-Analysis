@@ -10,7 +10,7 @@ This project analyzes sales transaction data for a UK-based e-commerce business 
 
 - The dataset used can be found [here](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data). (Kaggle)
 
--  The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/user-attachments/files/17153915/SQL.Queries.E-Commerce.pdf ). (SQL Server Management Studio)
+-  The SQL queries used to inspect and clean the data for this analysis can be found [here](https://drive.google.com/file/d/1LHdVIbaBx4lhp0Jas2gM1d6cdgFPNpwj/view?usp=sharing). (SQL Server Management Studio)
 
 - An interactive dashboard used to report and explore sales trends can be found [here](https://app.powerbi.com/view?r=eyJrIjoiYzkxM2MzODktOTRiZi00OTBkLTgxOGItYjQxYzhhYTFhODA5IiwidCI6IjI3MWQ1ZTdiLTEzNTAtNGI5Ni1hYjg0LTUyZGJkYTRjZjQwYyIsImMiOjEwfQ%3D%3D&pageName=6b650cd31a16e93ba4dc). (Power BI)
 
@@ -20,7 +20,7 @@ This project analyzes sales transaction data for a UK-based e-commerce business 
 ## Executive Summary
 #### Overview of Findings
 
-This analysis reveals three critical insights that can significantly enhance revenue growth for the company. First, while retail customers represent only 2.36% of the total customer base, they account for over 35% of total sales, indicating substantial potential for expanding this segment. Second, the impact of stockouts is significant, with top-selling items frequently unavailable, leading to a loss of £883K in potential revenue—improving inventory management could capture this lost revenue. Lastly, although the company excels in the UK market with over £52M in sales, there are untapped opportunities for geographic expansion in other European countries, where revenue remains relatively low.
+This analysis reveals three critical insights that can significantly enhance revenue growth for the company. First, while retail customers represent only 2.36% of the total customer base, they account for over 35% of total sales, indicating substantial potential for expanding this segment. Second, the impact of stockouts is significant, with top-selling items frequently unavailable, leading to a loss of £883K in potential revenue—improving inventory management could capture this revenue loss. Lastly, although the company excels in the UK market with over £52M in sales, there are untapped opportunities for geographic expansion in other European countries, where revenue remains relatively low.
 
 
 ![dashboard_snapo](https://github.com/user-attachments/assets/1d54feaf-7579-4dc0-bf69-2f49dc119356)
